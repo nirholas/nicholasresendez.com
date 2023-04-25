@@ -1,7 +1,7 @@
 ---
 name: Nicholas Resendez
 username: nicholas
-bio: "American security researcher, Internet programmer, and Internet entrepreneur. Provided security research services to Apple Inc, Microsoft, AT&T, U.S Department of Defense, and more. Founder of Grindez & uALREADY. Attended  University of Wisconsin–Milwaukee from 2015-2019 studying Information Technology Management and Marketing. Currently holding a Wisconsin Real Estate License. [Google Knowledge Graph](https://g.co/kgs/ya3om3) "
+bio: "American security researcher, Internet programmer, and Internet entrepreneur. Provided security research services to Apple Inc, Microsoft, AT&T, U.S Department of Defense, and more. Founder of Grindez & uALREADY. Attended  University of Wisconsin–Milwaukee from 2015-2019 studying Information Technology Management and Marketing. Currently holding a Wisconsin Real Estate License. [Google Knowledge Graph](https://g.co/kgs/VoSpSS) "
 site: nicholasresendez.com
 avatar: profile.png
 email: admin@grindez.com
