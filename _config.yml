@@ -30,49 +30,49 @@ author_work_experiences:
               company_url: https://grindez.com
               designation: Founder
               description: Grindez.com is the worlds p2p work marketplace platform, cryptocurrency payments enabled.
-              visibility: true
+              visibility: false
             - company_name: Entrepreneur
               company_logo: entrepreneur.png
               company_url: https://entrepreneur.com/author/nicholas-resendez
               designation: Contributing Writer
               description: August 2021 - Present
-              visibility: true
+              visibility: false
             - company_name: LunarCRUSH
               company_logo: lunarcrush.png
               company_url: https://lunarcrush.com
               designation: Growth Hacker
               description: Feb 2020 – Sep 2020
-              visibility: true
+              visibility: false
             - company_name: Socialeads
               company_logo: socialeads.png
               company_url: https://socialeads.com
               designation: Data Science
               description: Nov 2018 – Sep 2019
-              visibility: true
+              visibility: false
             - company_name: University of Wisconsin-Milwaukee
               company_logo: uwm.png
               company_url: https://uwm.edu/studentsuccess
               designation: Web Developer
               description: Jan 2017 – May 2019
-              visibility: true
+              visibility: false
             - company_name: Laughlin Constable
               company_logo: laughlin.png
               company_url: https://www.laughlin.com/
               designation: Data Science Intern
               description: Jun 2018 – Sep 2018
-              visibility: true
+              visibility: false
             - company_name: AppBrewery
               company_logo: brew.png
               company_url: https://www.appbrewery.co/
               designation: Mobile & Web Software Developer Intern
               description: Jul 2017 – Nov 2017
-              visibility: true
+              visibility: false
             - company_name: Realty Executives Integrity 
               company_logo: realty.png
               company_url: https://www.realtyexecutives.com/
               designation: Marketing + Front Desk Associate
               description: Sep 2015 – Nov 2016
-              visibility: true
+              visibility: false
 
 # Education
 author_education_details:
