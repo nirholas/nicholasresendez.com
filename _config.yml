@@ -23,7 +23,7 @@ typewrite-text:
 
 
 # Experiences
-author_work_experiences:
+#author_work_experiences:
 
             - company_name: Grindez
               company_logo: grindez.png
